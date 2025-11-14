@@ -1,0 +1,17 @@
+.heroing{
+    width:100%;
+}
+.cardsec{
+    display: flex;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 2%;
+}
+.cc{
+    margin-left: 5%;
+}
+.info{
+    padding: 3%;
+    background-color: cornflowerblue;
+    margin-top: 2%;
+}
