@@ -7,11 +7,12 @@ import Header from "./Component/Header/Header";
 import Home from "./Component/Home/Home";
 import VGallery from "./Component/VGallery/VGallery";
 
-
+//
 
 function App() {
   return (
    <div>
+    {/* contact */}
     <Header/>
     <Routes>
       <Route path="/" element={<Home/>} />
